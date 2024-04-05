@@ -1,0 +1,14 @@
+.button{
+    background-color: var(--Dark-gray-blue);
+    font-weight: 600;
+    color: var(--White);
+    padding: 20px;
+    border: none;
+    border-radius: 30px;
+    width: 100%;
+}
+
+.button:hover{
+    background: linear-gradient(var(--Light-slate-blue-background), var(--Light-royal-blue-background));
+    cursor: pointer;
+}
